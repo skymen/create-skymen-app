@@ -1,6 +1,6 @@
 {
   "name": "create-skymen-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scaffold a Tauri v2 + Vue 3 desktop app from skymen's template",
   "type": "module",
   "bin": {
