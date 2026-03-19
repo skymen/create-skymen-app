@@ -1,0 +1,26 @@
+{
+  "name": "create-skymen-app",
+  "version": "1.0.0",
+  "description": "Scaffold a Tauri v2 + Vue 3 desktop app from skymen's template",
+  "type": "module",
+  "bin": {
+    "create-skymen-app": "index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "create",
+    "scaffold",
+    "tauri",
+    "vue",
+    "desktop",
+    "template"
+  ],
+  "author": "skymen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skymen/create-skymen-app"
+  }
+}
